@@ -3,7 +3,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 
 LOCAL_MODULE := argp-standalone
-LOCAL_DESCRIPTION := arg-standalonep
+LOCAL_DESCRIPTION := argp-standalone
 LOCAL_LIBRARIES :=
 
 LOCAL_EXPORT_LDLIBS =
